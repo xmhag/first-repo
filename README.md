@@ -1,3 +1,3 @@
 # first-repo
 
-My first branch
+My first branch :)
